@@ -2,10 +2,8 @@
 
 body {
   margin: 0;
-}
-
-main {
-  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
 }
 
 #logo {
@@ -29,6 +27,7 @@ main {
 #titolo1 h1 {
   padding-top: 30px;
   font-weight: bold;
+  text-align: center;
 }
 .img2 {
   text-align: center;
@@ -41,18 +40,20 @@ main {
 }
 .link,
 p a {
-  display: block;
-  margin: auto;
   border-left: 1px solid orangered;
   padding-left: 0.2px;
 }
+#sezione2 {
+  text-align: center;
+}
+
 .titoloh3 {
   padding-top: 20px;
   font-weight: bold;
   border-bottom: 1px solid lightblue;
 }
 
-#procedimento {
+#procedimento p {
   padding-top: 30px;
 }
 
