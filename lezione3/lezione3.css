@@ -2,8 +2,10 @@
 
 body {
   margin: 0;
-  margin-left: 500px;
-  margin-right: 500px;
+}
+#principale {
+  width: 500px;
+  margin: auto;
 }
 
 #logo {
@@ -17,21 +19,15 @@ body {
 
 .sezione1 p {
   font-size: x-small;
-  text-align: center;
-}
-
-.video {
-  text-align: center;
 }
 
 #titolo1 h1 {
   padding-top: 30px;
   font-weight: bold;
-  text-align: center;
+
   font-size: medium;
 }
 .img2 {
-  text-align: center;
   padding-bottom: 1vh;
 }
 .link p {
@@ -43,9 +39,6 @@ body {
 p a {
   border-left: 1px solid orangered;
   padding-left: 0.2px;
-}
-#sezione2 {
-  text-align: center;
 }
 
 .titoloh3 {
